@@ -41,6 +41,7 @@
     <link href="css/default.uni-form.css" title="Default Style" media="screen" rel="stylesheet"/>
     <link href="css/demo.css" media="screen" rel="stylesheet"/>
     <link href="css/css.css" media="screen" rel="stylesheet" type="text/css" /> 
+    <link href="css/emma-shopify.css" media="screen" rel="stylesheet" type="text/css" /> 
     <!--[if lte ie 7]>
       <style type="text/css" media="screen">
         /* Move these to your IE6/7 specific stylesheet if possible */
@@ -51,7 +52,7 @@
   </head>
   <body>
   <div id="" class="clearfix uniForm"> 
-          <h1><a href=""><img src="img/emma_logo.jpeg" alt=""/></a></h1>
+          <h1><a href=""><img src="img/emma-logo.png" alt=""/></a></h1>
         <form action="login.php" method="get" class="uniForm">
                 
           <fieldset>
