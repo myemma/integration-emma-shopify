@@ -30,10 +30,12 @@ The Email ID used for purchasing will be added to the selected Emma groups.
 
 
 CONFIGURING DEFAULT EMMA GROUPS
+
 You can configure the default groups that will be available at
 at http://sample.com/emma-shopify/config_groups.php. When an order is completed 
 at the Shopify store, subscribed customers will be automatically added to the Emma Group(s) 
 selected at the above URL.
 
 END USER SUBSCRIBE / UNSUBSCRIBE
+
 The end user is provided with an option to subscribe / unsubscribe after each purchase.
