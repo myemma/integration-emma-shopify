@@ -4,8 +4,8 @@
 		You can find your API Key, and Secret in your Shopify partners account (http://www.shopify.com/partners/)
 	*/
 
-	define('API_KEY', '569517485edf6fea13f42b09c9e923b8');
-	define('SECRET', '079923a3b3ad50c4e7a9623b6144e9a0');
+	define('API_KEY', 'EXAMPLEAPIKEY');
+	define('SECRET', 'EXAMPLEAPIKEY');
 	define('FORMAT', 'xml');
 	define('GZIP_ENABLED', true); // set to false if you do not want gzip encoding. If false GZIP_PATH is not needed to be set
 	define('GZIP_PATH', '/tmp'); // path for gzip decoding (this file will need write permissions)
